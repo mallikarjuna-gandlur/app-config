@@ -1,2 +1,8 @@
-name: Mallik
+---
+applications:
+  name: hello-world
+    profiles:
+      name: prod
+      label: master
+    name: mallika
  
