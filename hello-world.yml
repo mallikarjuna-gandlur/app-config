@@ -1,10 +1,2 @@
----
 spring: 
-  applications:   
-  profiles:
-    - qa
-      label: master
-      name: gandlur
-    - dev
-      label: dev2
-      name: mallik gandlur
+  name: gandlur
