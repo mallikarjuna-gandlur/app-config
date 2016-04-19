@@ -1,7 +1,6 @@
 ---
 spring: 
   applications:   
-    name: hello-world
   profiles:
     - qa
       label: master
