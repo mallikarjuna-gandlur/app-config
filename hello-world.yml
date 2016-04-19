@@ -1,9 +1,10 @@
 ---
 applications:
-  name:hello-world
-    profiles:
-      name:dev
-        lable:dev
-          name: M Gandlur
+  name: hello-world
+
+profiles:
+    active: dev
+      lable: dev
+name: M Gandlur
 
  
