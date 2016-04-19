@@ -1,7 +1,10 @@
 ---
 applications:
   name: hello-world
-    profiles: prod
+  
+  profiles: 
+      name: prod
       label: master
-    name: mallika gandlur
+  
+  name: mallika gandlur
  
