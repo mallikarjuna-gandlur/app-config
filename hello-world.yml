@@ -1,7 +1,8 @@
-application:
-  name: hello-world
-    name: mallika gandlur
-  profiles: 
-     active: prod
-       label: master
+spring:
+  application:
+    name: hello-world
+      name: mallika gandlur
+    profiles: 
+       active: prod
+         label: master
  
