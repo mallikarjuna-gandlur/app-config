@@ -1,2 +1,9 @@
-name: Mallikarjuna
+---
+applications:
+  name:hello-world
+  profiles:
+    name:dev
+      lable:dev
+        name: M Gandlur
+
  
